@@ -52,7 +52,7 @@ class AddContact extends React.Component {
             />
           </div>
           <button className="ui button blue" onClick={this.add}>
-            Add
+            Add Contact
           </button>
         </form>
       </div>
